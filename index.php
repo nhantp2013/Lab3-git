@@ -4,7 +4,7 @@
             <a href="/LAB3/list_product.php">DANH SÁCH SẢN PHẨM< aaaaaaa/a>
         </li>
         <li>
-            <a href="/LAB3/add_product.php">THÊM SẢN PHẨM</a>
+            <a href="/LAB3/add_product.php">THÊM SẢN PHẨM bbbbbbb</a>
         </li>
     
     </ul>
